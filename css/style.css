@@ -7,7 +7,7 @@
   text-align: center;
 }
 
-#navbar a{
+a{
   color: white;
 }
 
@@ -15,10 +15,10 @@
   height: 100vh;
   background-color: purple;
   color: white;
+  text-align: center;
 }
 
 #welcome-section h1{
-  text-align: center;
   padding-top: 10%;
 }
 
