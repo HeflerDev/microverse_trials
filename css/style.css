@@ -1,0 +1,29 @@
+#navbar{
+  position: fixed;
+  top: 0;
+  background-color: black;
+  width: 100%;
+  padding: 5px 10px;
+  text-align: center;
+}
+
+#navbar a{
+  color: white;
+}
+
+#welcome-section{
+  height: 100vh;
+  background-color: purple;
+  color: white;
+}
+
+#welcome-section h1{
+  text-align: center;
+  padding-top: 10%;
+}
+
+@media screen and (max-width: 800px) {
+  #welcome-section {
+    background-color: pink;
+  }
+}
